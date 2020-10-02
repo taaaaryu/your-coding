@@ -37,7 +37,7 @@ img {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  background-image: url(images/楕円.png);
+  background-image: url(素材/楕円.png);
   background-position: 623px -124px;
   background-size: 708px,711px;
 }
